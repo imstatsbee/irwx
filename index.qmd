@@ -1,13 +1,22 @@
 ---
 title: "irwx"
+editor_options: 
+  chunk_output_type: console
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{r}
 1 + 1
 ```
 
-Quarto new project as website. 
+
+* linear mixed-effects model 
+* structural equation model 
+* imaging analysis 
+* association rules 
+
+* text-mining/sentiment analysis 
+https://uc-r.github.io/tidy_text
+
+https://uc-r.github.io/sentiment_analysis#sentiment
+https://www.stephaniehicks.com/jhustatcomputing2022/posts/2022-10-13-working-with-text-sentiment-analysis/#tidy-text

@@ -1,10 +1,17 @@
 [
   {
+    "objectID": "src/proj/burnout.html",
+    "href": "src/proj/burnout.html",
+    "title": "Burnout",
+    "section": "",
+    "text": "Mehta et al. (2022)\n\n\n\n\nReferences\n\nMehta, Anuj B., Steven Lockhart, Kathryne Reed, Christine Griesmer, Russell E. Glasgow, Marc Moss, Ivor S. Douglas, and Megan A. Morris. 2022. “Drivers of Burnout Among Critical Care Providers: A Multicenter Mixed-Methods Study.” Chest 161 (5): 1263–74. https://doi.org/https://doi.org/10.1016/j.chest.2021.11.034."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "irwx",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nQuarto new project as website."
+    "text": "1 + 1\n\n[1] 2\n\n\n\nlinear mixed-effects model\nstructural equation model\nimaging analysis\nassociation rules\ntext-mining/sentiment analysis https://uc-r.github.io/tidy_text\n\nhttps://uc-r.github.io/sentiment_analysis#sentiment https://www.stephaniehicks.com/jhustatcomputing2022/posts/2022-10-13-working-with-text-sentiment-analysis/#tidy-text"
   },
   {
     "objectID": "about.html",
@@ -12,5 +19,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "IPP\nBayesian\nBurnout\nTM2\ntricoder\nMHDE\nSOFA2\nPPM2\nECG\nRASS\nEMS\nEEG\nPain\nCT/MRI"
   }
 ]

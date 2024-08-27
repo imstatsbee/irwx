@@ -1,0 +1,19 @@
+---
+title: "Projects"
+---
+
+* [IPP](./)
+* [Bayesian](./)
+* [Burnout](./src/proj/burnout.qmd)
+* [TM2](./)
+* [tricoder](./)
+* [MHDE](./)
+* [SOFA2](./)
+* [PPM2](./)
+* [ECG](./)
+* [RASS](./)
+* [EMS](./)
+* [EEG](./)
+* [Pain](./)
+* [CT/MRI](.)
+
